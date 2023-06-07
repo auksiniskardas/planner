@@ -29,3 +29,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+###### HOW TO USE THIS WEB PLANNER ######
+- in "Darbo apimtis (valandomis)" write how long it will take (in total) to write bachelor's thesis; for example - 30 or 40 (hours).
+- in "Terminas (yyyy-mm-dd)" write - 2023-06-30.
+- in "Užimtos valandos per dieną" write - 1 or 2, or, 3, or 4..
+and then press "Skaičiuoti" button!
+*for better results* don't forget to reload the page when you type the new data in this planner! 
+
